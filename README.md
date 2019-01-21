@@ -8,14 +8,14 @@ By the end of the course, you will be confident with your programming skills and
 
 What You Will Learn
 
-● Set up an IntelliJ IDEA environment to use Java 11
-● Understand programming syntax, variables, and expressions to create your algorithms
-● Use the latest features of Java 11
-● Build applications using classes and objects
-● Use Object Oriented Programming concepts for efficient programming
+● Set up an IntelliJ IDEA environment to use Java 11<br>
+● Understand programming syntax, variables, and expressions to create your algorithms<br>
+● Use the latest features of Java 11<br>
+● Build applications using classes and objects<br>
+● Use Object Oriented Programming concepts for efficient programming<br>
 
-Instructions and Navigation
-Assumed Knowledge
+Instructions and Navigation<br>
+Assumed Knowledge<br>
 
 ● You need not have java coding experience to start this course.
 ●This video will appeal to anyone who would like to learn Java 11
