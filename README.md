@@ -22,16 +22,16 @@ You need not have java coding experience to start this course.
 Anyone working with previous versions of Java will also benefit from this course
 ### Technical Requirements
 This course has the following software requirements:<br/>
-This course has the following software requirements:
-●	IntelliJ IDEA – Version 2018.3.3
-●	Java – Version 11
+This course has the following software requirements:<br/>
+●	IntelliJ IDEA – Version 2018.3.3<br/>
+●	Java – Version 11<br/>
 
 
-This course has been tested on the following system configuration:
-●	OS: macOS
-●	Processor: 3.1 GHz Intel Core i7
-●	Memory: 4GB
-●	Hard Disk Space: 200MB
+This course has been tested on the following system configuration:<br/>
+●	OS: macOS<br/>
+●	Processor: 3.1 GHz Intel Core i7<br/>
+●	Memory: 4GB<br/>
+●	Hard Disk Space: 200MB<br/>
 
 
 ## Related Products
