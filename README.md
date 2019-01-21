@@ -7,6 +7,7 @@ This video course will be a guide to get you up and running with Java. Right fro
 By the end of the course, you will be confident with your programming skills and will be up and running with the Java 11 and all the new features it brings in.
 
 What You Will Learn
+
 ● Set up an IntelliJ IDEA environment to use Java 11
 ● Understand programming syntax, variables, and expressions to create your algorithms
 ● Use the latest features of Java 11
@@ -15,12 +16,14 @@ What You Will Learn
 
 Instructions and Navigation
 Assumed Knowledge
+
 ● You need not have java coding experience to start this course.
 ●This video will appeal to anyone who would like to learn Java 11
 ● Anyone working with previous versions of Java will also benefit from this course
 
 Technical Requirements
 This course has the following software requirements:
+
 ●	IntelliJ IDEA – Version 2018.3.3
 ●	Java – Version 11
 
@@ -39,6 +42,7 @@ Minimum Hardware Requirements:
 ● Graphics - Support for DirectX 9 graphics with minimum 128MB RAM
 
 Software Requirements:
+
 ● MACOS Leopard - 64 bit
 ● Windows XP ,Vista, Windows 7 - 64 bit
 ● Oracle Enterprise Linux 5 - 64 bit
