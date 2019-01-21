@@ -14,39 +14,43 @@ What You Will Learn
 ● Build applications using classes and objects<br>
 ● Use Object Oriented Programming concepts for efficient programming<br>
 
+
 Instructions and Navigation<br>
 Assumed Knowledge<br>
 
-● You need not have java coding experience to start this course.
-●This video will appeal to anyone who would like to learn Java 11
-● Anyone working with previous versions of Java will also benefit from this course
-
-Technical Requirements
-This course has the following software requirements:
-
-●	IntelliJ IDEA – Version 2018.3.3
-●	Java – Version 11
-
-This course has been tested on the following system configuration:
-● MACOS Leopard - 64 bit
-● Windows XP ,Vista, Windows 7 - 64 bit
-● Oracle Enterprise Linux 5 - 64 bit
-● RedHat Linux 5 - 64 bit
+● You need not have java coding experience to start this course<br>
+●This video will appeal to anyone who would like to learn Java 11<br>
+● Anyone working with previous versions of Java will also benefit from this course<br>
 
 
-Minimum Hardware Requirements:
+Technical Requirements<br>
+This course has the following software requirements:<br>
 
-● Processor - 1 GHz or greater
-● Hard Disk Space - 16GB available disk space
-● Memory - 1 GB (32-bit), 2 GB (64-bit)
-● Graphics - Support for DirectX 9 graphics with minimum 128MB RAM
+●	IntelliJ IDEA – Version 2018.3.3<br>
+●	Java – Version 11<br>
 
-Software Requirements:
 
-● MACOS Leopard - 64 bit
-● Windows XP ,Vista, Windows 7 - 64 bit
-● Oracle Enterprise Linux 5 - 64 bit
-● RedHat Linux 5 - 64 bit
+This course has been tested on the following system configuration:<br>
+
+● MACOS Leopard - 64 bit<br>
+● Windows XP ,Vista, Windows 7 - 64 bit<br>
+● Oracle Enterprise Linux 5 - 64 bit<br>
+● RedHat Linux 5 - 64 bit<br>
+
+
+Minimum Hardware Requirements:<br>
+
+● Processor - 1 GHz or greater<br>
+● Hard Disk Space - 16GB available disk space<br>
+● Memory - 1 GB (32-bit), 2 GB (64-bit)<br>
+● Graphics - Support for DirectX 9 graphics with minimum 128MB RAM<br>
+
+Software Requirements:<br>
+
+● MACOS Leopard - 64 bit<br>
+● Windows XP ,Vista, Windows 7 - 64 bit<br>
+● Oracle Enterprise Linux 5 - 64 bit<br>
+● RedHat Linux 5 - 64 bit<br>
 
 
 Related Products
